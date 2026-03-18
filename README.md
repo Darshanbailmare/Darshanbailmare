@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm a motivated and detail-oriented Frontend Developer with a strong interest in growing into a Full Stack Developer. I enjoy building responsive and user-friendly web interfaces using modern technologies such as HTML, CSS, and JavaScript.<br>I’m passionate about creating impactful web experiences and continuously improving my skills by exploring new tools, frameworks, and best practices. I actively work on projects that help me strengthen my problem-solving abilities and deepen my understanding of modern web development.<br>Currently, I’m expanding my knowledge into backend technologies to broaden my technical stack and move toward building complete end-to-end applications. I’m always eager to learn, collaborate, and contribute to real-world projects through internships and professional opportunities.
 
 
